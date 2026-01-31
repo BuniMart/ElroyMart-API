@@ -37,7 +37,7 @@
     "thumbnail": "/gpa.png"
   },
   {
-    "id": 10,
+    "id": 2,
     "title": "Elroy's Exclusive Drumsticks",
     "description": "Elroy's Exclusive drum sticks were molded under strict quality control standards from carefully selected wood materials and is renowned for their consistent high quality. Get this premium and exclusive drumsticks for only RM 1999!",
     "category": ["exclusive-items", "physical"],
@@ -66,7 +66,7 @@
     "thumbnail": "/drumsticks.png"
   },
   {
-    "id": 15,
+    "id": 3,
     "title": "Elroy's Confiscated Fan",
     "description": "Amazing for cooling yourself down on a hot day! Equipped with 3 adjustable speeds, it is sold at the cheap price of just 999.99. Just make sure you don't play with it during class.",
     "category": ["exclusive-items", "physical"],
