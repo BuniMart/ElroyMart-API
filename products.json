@@ -1,293 +1,52 @@
 [
   {
     "id": 1,
-    "title": "Casio Scientific Calculator FX-570EX",
-    "description": "Reliable used scientific calculator suitable for secondary and college students. Fully functional with minor cosmetic wear.",
-    "category": ["stationery"],
-    "price": 999999.99,
-    "discountPercentage": 10,
-    "rating": 4.5,
+    "title": "Elroy's GPA",
+    "description": "An amazing 0.05 GPA, which will be put into effect immediately.",
+    "category": ["exclusive-items", "virtual"],
+    "price": 79.99,
+    "discountPercentage": 0,
+    "rating": 3,
     "stock": 10,
     "tags": ["calculator", "used", "school"],
     "brand": "Casio",
     "sku": "STA-CAS-CAL-001",
-    "weight": 200,
     "dimensions": { "width": 7, "height": 16, "depth": 1.5 },
     "warrantyInformation": "1 month warranty",
     "shippingInformation": "Ships in 3-5 business days",
     "availabilityStatus": "In Stock",
     "reviews": [
       {
-        "rating": 5,
-        "comment": "Works perfectly and great value for money!",
+        "rating": 1,
+        "comment": "It decreased my GPA, not worth it.",
         "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Amirul Rahman",
+        "reviewerName": "John Nathan",
+        "reviewerEmail": "amirul.rahman@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "It increased my GPA! Would definitely buy this again, but I need to pay my fines!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Nigel Said",
         "reviewerEmail": "amirul.rahman@x.dummyjson.com"
       }
     ],
     "returnPolicy": "7 days return policy",
     "minimumOrderQuantity": 1,
-    "images": ["/calc.png"],
-    "thumbnail": "/calc.png"
-  },
-  {
-    "id": 2,
-    "title": "A4 Ring Binder File (Used)",
-    "description": "Durable used binder in good condition, perfect for organizing class notes and assignments.",
-    "category": ["stationery"],
-    "price": 67.67,
-    "discountPercentage": 10,
-    "rating": 4.2,
-    "stock": 30,
-    "tags": ["file", "binder", "used"],
-    "brand": "No Brand",
-    "sku": "STA-FIL-BIN-002",
-    "weight": 300,
-    "dimensions": { "width": 25, "height": 32, "depth": 4 },
-    "warrantyInformation": "No warranty",
-    "shippingInformation": "Ships in 3 days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 4,
-        "comment": "Clean and still very usable!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Sarah Lee",
-        "reviewerEmail": "sarah.lee@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "No return policy",
-    "minimumOrderQuantity": 2,
-    "images": ["/binder.png"],
-    "thumbnail": "/binder.png"
-  },
-  {
-    "id": 3,
-    "title": "Used Mechanical Pencil Set",
-    "description": "Set of 14 mechanical pencils in working condition, suitable for everyday school use.",
-    "category": ["stationery"],
-    "price": 1299.99,
-    "discountPercentage": 10,
-    "rating": 4,
-    "stock": 20,
-    "tags": ["pencil", "used", "writing"],
-    "brand": "Pentel",
-    "sku": "STA-PEN-MEC-003",
-    "weight": 50,
-    "dimensions": { "width": 5, "height": 15, "depth": 1 },
-    "warrantyInformation": "No warranty",
-    "shippingInformation": "Ships in 2-4 business days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 4,
-        "comment": "Slightly worn but still writes smoothly!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Jenson Ohh",
-        "reviewerEmail": "jason.tan@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "7 days return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/mechpencils.png"],
-    "thumbnail": "/mechpencils.png"
-  },
-  {
-    "id": 4,
-    "title": "Used School Bag (Standard Size)",
-    "description": "Gently used school bag with spacious compartments. Suitable for primary or secondary school students.",
-    "category": ["used-items"],
-    "price": 999.99,
-    "discountPercentage": 10,
-    "rating": 4.3,
-    "stock": 5,
-    "tags": ["bag", "used", "school"],
-    "brand": "Nike",
-    "sku": "USE-BAG-SCH-004",
-    "weight": 700,
-    "dimensions": { "width": 30, "height": 45, "depth": 15 },
-    "warrantyInformation": "No warranty",
-    "shippingInformation": "Ships in 5 days",
-    "availabilityStatus": "Low Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "Still in great condition and comfortable to carry!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Nur Ellysha",
-        "reviewerEmail": "nur.aisyah@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "No return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/schoolbag.png"],
-    "thumbnail": "/schoolbag.png"
-  },
-  {
-    "id": 5,
-    "title": "Used Water Bottle 500ml",
-    "description": "Reusable 500ml water bottle, cleaned and sanitized. Ideal for school use.",
-    "category": ["used-items"],
-    "price": 499.99,
-    "discountPercentage": 10,
-    "rating": 3.9,
-    "stock": 15,
-    "tags": ["bottle", "used", "eco-friendly"],
-    "brand": "Tupperware",
-    "sku": "USE-BOT-WAT-005",
-    "weight": 120,
-    "dimensions": { "width": 7, "height": 20, "depth": 7 },
-    "warrantyInformation": "No warranty",
-    "shippingInformation": "Ships in 3-5 business days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 4,
-        "comment": "Good condition and very clean.",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "John Nathan Chow",
-        "reviewerEmail": "adrian.lim@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "No return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/waterbottle.png"],
-    "thumbnail": "/waterbottle.png"
-  },
-  {
-    "id": 6,
-    "title": "Half-Used Faber Castell Pen",
-    "description": "Enjoy the smoothest performance and a stylish new look, this isn’t just a pen - it’s your vibe. For the cheap price of only 199. Sourced from 'journalists' in class.",
-    "category": ["stationery", "used-items"],
-    "price": 199.99,
-    "discountPercentage": 10,
-    "rating": 4.67,
-    "stock": 30,
-    "tags": ["pens", "used", "school"],
-    "brand": "Faber-Castell",
-    "sku": "STA-CAS-CAL-001",
-    "weight": 50,
-    "dimensions": { "width": 7, "height": 25, "depth": 1.5 },
-    "warrantyInformation": "1 month warranty",
-    "shippingInformation": "Ships in 6-7 business days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "Writes smoothly and amazing value for money! Must buy for all students.",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Nigel Said",
-        "reviewerEmail": "nigel.richards@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "3 days return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/pen.png"],
-    "thumbnail": "/pen.png"
-  },
-  {
-    "id": 7,
-    "title": "Mixue Lemonade Drink",
-    "description": "Mixue Lemonade originated from a passion for crafting the perfect citrus drink. The journey began with a vision to create a beverage that goes beyond the ordinary. For all 80% and above scorers, they can earn a Mixue Lemonade, free of charge!",
-    "category": ["drinks"],
-    "price": 2.99,
-    "discountPercentage": 100,
-    "rating": 5,
-    "stock": 33,
-    "tags": ["drinks", "reward"],
-    "brand": "Mixue",
-    "weight": 300,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
-    "warrantyInformation": "No warranty",
-    "shippingInformation": "Immediate shipping",
-    "availabilityStatus": "Out of Stock, check back for Mid-Years",
-    "reviews": [
-      {
-        "rating": 4.8,
-        "comment": "Great drink and good target for all Math students!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Lucas Jothin",
-        "reviewerEmail": "wesleyan.student@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "1 minute return policy",
-    "minimumOrderQuantity": 1,
-    "maximumOrderQuantity": 1,
-    "images": ["/mixue.png"],
-    "thumbnail": "/mixue.png"
-  },
-  {
-    "id": 8,
-    "title": "Artline 500A Whiteboard Marker Medium Point 6 Colours",
-    "description": "Writing on the whiteboard has never been easier! With the Artline 500A Whiteboard Marker Medium Point, you can now answer the teacher's questions on the board without borrowing their marker and making them annoyed! A set of 6 markers for only RM20.",
-    "category": ["stationery"],
-    "price": 299.99,
-    "discountPercentage": 10,
-    "rating": 4.2,
-    "stock": 50,
-    "tags": "stationery",
-    "brand": "Artline",
-    "weight": 200,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
-    "warrantyInformation": "No warranty",
-    "shippingInformation": "Shipping in 6-7 working days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 4.2,
-        "comment": "Great marker pen! I can now answer questions on the board without getting another nagging from my teacher to get my own whiteboard marker.",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Bartholomew, John",
-        "reviewerEmail": "john.bartholomew@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "1 week return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/marker.png"],
-    "thumbnail": "/marker.png"
-  },
-  {
-    "id": 9,
-    "title": "Exclusive Wesleyan A5 Exercise Book",
-    "description": "An A5 Exercise Book to do your homework and write notes in!",
-    "category": ["stationery", "exclusive-items"],
-    "price": 19.99,
-    "discountPercentage": 10,
-    "rating": 3.9,
-    "stock": 100,
-    "tags": "stationery",
-    "brand": "Wesley Exclusive",
-    "weight": 50,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
-    "warrantyInformation": "No warranty",
-    "shippingInformation": "Shipping in 2-3 working days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 4,
-        "comment": "Great notebook for writing all my notes down.",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "James Lin",
-        "reviewerEmail": "james.wong@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "1 week return policy",
-    "minimumOrderQuantity": 3,
-    "images": ["/exercisebook.png"],
-    "thumbnail": "/exercisebook.png"
+    "images": ["/gpa.png"],
+    "thumbnail": "/gpa.png"
   },
   {
     "id": 10,
     "title": "Elroy's Exclusive Drumsticks",
     "description": "Elroy's Exclusive drum sticks were molded under strict quality control standards from carefully selected wood materials and is renowned for their consistent high quality. Get this premium and exclusive drumsticks for only RM 1999!",
-    "category": ["exclusive-items"],
+    "category": ["exclusive-items", "physical"],
     "price": 1999.99,
     "discountPercentage": 0.00001,
     "rating": 5,
     "stock": 1,
     "tags": ["exclusive-items"],
     "brand": "Elroy Exclusive",
-    "weight": 100,
     "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
     "warrantyInformation": "3 month warranty",
     "shippingInformation": "Shipping in 4-5 working days",
@@ -307,138 +66,10 @@
     "thumbnail": "/drumsticks.png"
   },
   {
-    "id": 11,
-    "title": "BuniMart Optic Glasses",
-    "description": "BuniMart Optic Glasses are glasses designed for ease of use and all-day wearability. Made by the renouned Ms. Buni, and crafted from titanium.",
-    "category": ["exclusive-items"],
-    "price": 1999.99,
-    "discountPercentage": 20,
-    "rating": 5,
-    "stock": 10,
-    "tags": ["exclusive-items"],
-    "brand": "BuniMart Exclusive",
-    "weight": 100,
-    "dimensions": { "width": 7, "height": 19, "depth": 1.5 },
-    "warrantyInformation": "1 year warranty",
-    "shippingInformation": "Shipping in 4-5 working days",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "Absolutely incredible quality, buy two if you need them!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Ms. Buni",
-        "reviewerEmail": "goh.jern.han@x.dummyjson.com"
-      },
-      {
-        "rating": 5,
-        "comment": "I really need these!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Tan Dong Jiu",
-        "reviewerEmail": "goh.jern.han@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "1 week return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/glasses.png"],
-    "thumbnail": "/glasses.png"
-  },
-  {
-    "id": 12,
-    "title": "A Single Piece of Graph Paper",
-    "description": "A single piece of standard A4 graph paper suitable for math, geometry and geometry dash sketches.",
-    "category": ["stationery"],
-    "price": 2.99,
-    "discountPercentage": 10,
-    "rating": 4.8,
-    "stock": 120,
-    "tags": ["stationery"],
-    "brand": "BuniMart Exclusive",
-    "warrantyInformation": "No warranty (consumable item)",
-    "shippingInformation": "In-school delivery",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "Good quality paper and accurate grid layout.",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Lychee Wayne",
-        "reviewerEmail": "alex.tan@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "7-day return for unused items",
-    "minimumOrderQuantity": 1,
-    "images": ["/graphpaper.jpg"],
-    "thumbnail": "/graphpaper.jpg"
-  },
-  {
-    "id": 13,
-    "title": "Pack of a 100 individual pieces of eraser dust",
-    "description": "A pile of carefully sculpted eraser dust, coloured with just the right hue and shade, and easily falls apart the second you touch it. Perfect for showing your peers, parents and teachers how hardworking you are.",
-    "category": ["stationery", "used-items"],
-    "price": 3.979191307e22,
-    "discountPercentage": 67,
-    "rating": 4,
-    "stock": 2000000,
-    "tags": ["stationery"],
-    "brand": "BuniMart Exclusive",
-    "warrantyInformation": "No warranty (consumable item)",
-    "shippingInformation": "In-school delivery",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "This is the worst quality eraser dust ever! Love it!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Regna Lime",
-        "reviewerEmail": "alex.tan@x.dummyjson.com"
-      },
-      {
-        "rating": 5,
-        "comment": "What the sigma",
-        "reviewerName": "Tong Yi",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerEmail": "a@a.com"
-      }
-    ],
-    "returnPolicy": "0-day return for unused items",
-    "minimumOrderQuantity": 1,
-    "images": ["/eraserdust.png"],
-    "thumbnail": "/eraserdust.png"
-  },
-  {
-    "id": 14,
-    "title": "Math Homework Answers",
-    "description": "Contains the answers to all the homework you ever recieved in high school. Will be delivered after you leave school on graduation day.",
-    "category": ["exclusive-items"],
-    "price": 1e500,
-    "discountPercentage": 0,
-    "rating": 5,
-    "stock": 1,
-    "tags": ["exclusive-items"],
-    "brand": "BuniMart Exclusive",
-    "warrantyInformation": "No warranty (consumable item)",
-    "shippingInformation": "In-school delivery",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "This helped me find the answer to question 4e from the math homework for fractions from when I was in Year 7!",
-        "date": "2026-01-04T018:41:02.053Z",
-        "reviewerName": "Joshua",
-        "reviewerEmail": "joshua.l@gmail.com"
-      }
-    ],
-    "returnPolicy": "0-day return for unused items",
-    "minimumOrderQuantity": 1,
-    "images": ["/answers.png "],
-    "thumbnail": "/answers.png"
-  },
-  {
     "id": 15,
     "title": "Elroy's Confiscated Fan",
     "description": "Amazing for cooling yourself down on a hot day! Equipped with 3 adjustable speeds, it is sold at the cheap price of just 999.99. Just make sure you don't play with it during class.",
-    "category": ["exclusive-items"],
+    "category": ["exclusive-items", "physical"],
     "price": 999.99,
     "discountPercentage": 0,
     "rating": 3,
@@ -468,74 +99,5 @@
     "minimumOrderQuantity": 1,
     "images": ["/fan.jpg "],
     "thumbnail": "/fan.jpg"
-  },
-  {
-    "id": 16,
-    "title": "BuniMart Binoculars",
-    "description": "BuniMart is launching its very own binoculars! Equipped with 5x, 10x and 50x zoom, you will never struggle with looking at the whiteboard again! At only 899, you will remove the worry of forgetting your glasses!",
-    "category": ["exclusive-items"],
-    "price": 899.99,
-    "discountPercentage": 20,
-    "rating": 4.5,
-    "stock": 10,
-    "tags": ["exclusive-items"],
-    "brand": "BuniMart Exclusive",
-    "warrantyInformation": "1 month warranty",
-    "shippingInformation": "Delivery to 7 Joshua (relocated 8E)",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "These binoculars are amazing and worked perfectly! There were always people calling me blind, but then now with these glasses, I can see perfectly! Thanks BuniMart!",
-        "date": "2026-01-04T018:41:02.053Z",
-        "reviewerName": "Boba Zhao",
-        "reviewerEmail": "boba.z@gmail.com"
-      },
-      {
-        "rating": 4,
-        "comment": "These binoculars were made with amazing quality and cutting edge technology, but then does not solve the problem of forgetfulness. One time, I forgot both my glasses and binoculars.",
-        "date": "2026-01-17T018:41:02.053Z",
-        "reviewerName": "Isaac Foo",
-        "reviewerEmail": "isaac.f@gmail.com"
-      }
-    ],
-    "returnPolicy": "3-day return for unused items",
-    "minimumOrderQuantity": 1,
-    "images": ["/binoculars.png"],
-    "thumbnail": "/binoculars.png"
-  },
-  {
-    "id": 17,
-    "title": "Save BuniMart!",
-    "description": "Dawn Lim Sim Zheng of 10 Genesis has hacked BuniMart. RM 99999999999999999999999999999999999999999999999999 (not too overpriced for BuniMart) to get back BuniMart or else it will be destroyed forever. This message will self-destruct in 3 days.",
-    "category": [
-      "exclusive-items",
-      "stationery",
-      "used-items",
-      "reward",
-      "drinks"
-    ],
-    "price": 1e50,
-    "discountPercentage": 0,
-    "rating": 5,
-    "stock": 1,
-    "tags": ["exclusive-items", "stationery", "used-items", "reward", "drinks"],
-    "brand": "Dawn Exclusive",
-    "warrantyInformation": "1 year warranty",
-    "shippingInformation": "Online Shipping via Website",
-    "availabilityStatus": "In Stock",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "There's no way anyone would pay RM 99999999999999999999999999999999999999999999999999 for BuniMart! BuniMart is MINE!",
-        "date": "2025-04-30T09:41:02.053Z",
-        "reviewerName": "Dawn Lim",
-        "reviewerEmail": "dawn.lim@x.dummyjson.com"
-      }
-    ],
-    "returnPolicy": "3 days return policy",
-    "minimumOrderQuantity": 1,
-    "images": ["/hack.jpg"],
-    "thumbnail": "/hack.jpg"
   }
 ]

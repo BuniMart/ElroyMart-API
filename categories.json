@@ -1,7 +1,6 @@
 { 
-  "stationery": "Stationery",
   "used-items": "Used Items",
-  "drinks": "Drinks",
   "exclusive-items": "Exclusive Items",
-  "reward": "Reward"
+  "virtual": "Virtual Products",
+  "physical": "Physical Products"
 }

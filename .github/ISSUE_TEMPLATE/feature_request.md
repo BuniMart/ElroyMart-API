@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for BuniMart
+about: Suggest an idea for ElroyMart
 title: "[Feature] "
 labels: enhancement
 assignees: ilikecereal1

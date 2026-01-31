@@ -1,6 +1,6 @@
 ---
 name: Category suggestion
-about: Suggest a category for BuniMart
+about: Suggest a category for ElroyMart
 title: "[Category] "
 labels: Category
 assignees: ilikecereal1
